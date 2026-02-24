@@ -1,0 +1,17 @@
+h1 {
+    color: orangered;
+}
+
+button {
+    background-color: aquamarine;
+    font-size: 25px;
+    border: 3px dashed orangered;
+}
+p {
+    color: orangered;
+    width: 220px;
+    background-color: aquamarine;
+    padding: 3px;
+    margin-left: 3%;
+    border: dashed orangered;
+}
